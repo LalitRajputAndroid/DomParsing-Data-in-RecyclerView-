@@ -1,0 +1,39 @@
+<?xml version = "1.0" ?>
+<class>
+    <student>
+        <name>Android</name>
+        <rollno>1</rollno>
+        <age>20</age>
+    </student>
+
+    <student>
+        <name>c++</name>
+        <rollno>2</rollno>
+        <age>21</age>
+    </student>
+
+    <student>
+        <name>java</name>
+        <rollno>3</rollno>
+        <age>22</age>
+    </student>
+
+    <student>
+        <name>python</name>
+        <rollno>4</rollno>
+        <age>23</age>
+    </student>
+
+    <student>
+        <name>kotlin</name>
+        <rollno>5</rollno>
+        <age>25</age>
+    </student>
+
+    <student>
+        <name>Php</name>
+        <rollno>6</rollno>
+        <age>26</age>
+    </student>
+
+</class>
